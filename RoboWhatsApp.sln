@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoboWhatsApp.UI", "RoboWhatsApp.UI\RoboWhatsApp.UI.csproj", "{A522B581-0A89-4598-9308-4FA118BAF0C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoboWhatsApp.DTO", "RoboWhatsApp.DTO\RoboWhatsApp.DTO.csproj", "{99FB567F-7AEA-4DD0-84C1-4696FF3EB302}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoboWhatsApp.DAL", "RoboWhatsApp.DAL\RoboWhatsApp.DAL.csproj", "{0DDBF62F-13CE-4E70-9661-5749EDD7712F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoboWhatsApp.Console", "RobotWhatsApp.Console\RoboWhatsApp.Console.csproj", "{DC1A3D62-0913-45BA-85EB-103444242985}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A522B581-0A89-4598-9308-4FA118BAF0C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A522B581-0A89-4598-9308-4FA118BAF0C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A522B581-0A89-4598-9308-4FA118BAF0C3}.Debug|x86.ActiveCfg = Debug|x86
+		{A522B581-0A89-4598-9308-4FA118BAF0C3}.Debug|x86.Build.0 = Debug|x86
+		{A522B581-0A89-4598-9308-4FA118BAF0C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A522B581-0A89-4598-9308-4FA118BAF0C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A522B581-0A89-4598-9308-4FA118BAF0C3}.Release|x86.ActiveCfg = Release|x86
+		{A522B581-0A89-4598-9308-4FA118BAF0C3}.Release|x86.Build.0 = Release|x86
+		{99FB567F-7AEA-4DD0-84C1-4696FF3EB302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99FB567F-7AEA-4DD0-84C1-4696FF3EB302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99FB567F-7AEA-4DD0-84C1-4696FF3EB302}.Debug|x86.ActiveCfg = Debug|x86
+		{99FB567F-7AEA-4DD0-84C1-4696FF3EB302}.Debug|x86.Build.0 = Debug|x86
+		{99FB567F-7AEA-4DD0-84C1-4696FF3EB302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99FB567F-7AEA-4DD0-84C1-4696FF3EB302}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99FB567F-7AEA-4DD0-84C1-4696FF3EB302}.Release|x86.ActiveCfg = Release|x86
+		{99FB567F-7AEA-4DD0-84C1-4696FF3EB302}.Release|x86.Build.0 = Release|x86
+		{0DDBF62F-13CE-4E70-9661-5749EDD7712F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DDBF62F-13CE-4E70-9661-5749EDD7712F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DDBF62F-13CE-4E70-9661-5749EDD7712F}.Debug|x86.ActiveCfg = Debug|x86
+		{0DDBF62F-13CE-4E70-9661-5749EDD7712F}.Debug|x86.Build.0 = Debug|x86
+		{0DDBF62F-13CE-4E70-9661-5749EDD7712F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DDBF62F-13CE-4E70-9661-5749EDD7712F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DDBF62F-13CE-4E70-9661-5749EDD7712F}.Release|x86.ActiveCfg = Release|x86
+		{0DDBF62F-13CE-4E70-9661-5749EDD7712F}.Release|x86.Build.0 = Release|x86
+		{DC1A3D62-0913-45BA-85EB-103444242985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC1A3D62-0913-45BA-85EB-103444242985}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC1A3D62-0913-45BA-85EB-103444242985}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DC1A3D62-0913-45BA-85EB-103444242985}.Debug|x86.Build.0 = Debug|Any CPU
+		{DC1A3D62-0913-45BA-85EB-103444242985}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC1A3D62-0913-45BA-85EB-103444242985}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC1A3D62-0913-45BA-85EB-103444242985}.Release|x86.ActiveCfg = Release|Any CPU
+		{DC1A3D62-0913-45BA-85EB-103444242985}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98FF4AFF-2367-4219-8E4B-51A9DEFF94E3}
+	EndGlobalSection
+EndGlobal
